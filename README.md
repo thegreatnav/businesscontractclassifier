@@ -13,8 +13,8 @@ This project is a business contract classification tool designed to extract text
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/saisudan2003/intel_Unnati_MIT.git
-   cd intel_Unnati_MIT
+   git clone https://github.com/thegreatnav/businesscontractclassifier.git
+   cd businesscontractclassifier
    pip install -r requirements.txt
    ```
 
@@ -45,7 +45,7 @@ https://drive.google.com/drive/folders/1LHpsZnK7DVCcpGwTVArYcSTKWIYY0jQj?usp=sha
 
 ## Project Structure
 
-intel_Unnati_MIT/
+businesscontractclassifier/
 ├── input_folder/
 │   ├── example/
 │   │   └── example.pdf `The sample PDF uploaded by the user`
