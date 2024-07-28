@@ -1,0 +1,37 @@
+# PDF processing
+PyMuPDF
+
+# Optical Character Recognition (OCR)
+pytesseract
+
+# Text processing and machine learning
+spacy
+transformers
+
+# PyTorch and related libraries for GPU support
+torch
+torchvision
+torchaudio
+
+# Tokenizers
+tokenizers
+
+# Utilities
+joblib
+
+# FastAPI for backend
+fastapi
+uvicorn
+
+# Additional dependencies
+pandas
+numpy
+scikit-learn
+
+# Plotting and visualization (if needed)
+matplotlib
+
+flask
+flask-cors
+
+pdfplumber
